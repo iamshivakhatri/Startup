@@ -1,4 +1,5 @@
 # Startup
+These are startup videos
 
 http://www.paulgraham.com/notnot.html
 
