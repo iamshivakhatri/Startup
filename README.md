@@ -47,3 +47,7 @@ https://www.youtube.com/watch?v=Lb4IcGF5iTQ&ab_channel=YCombinator
 
 https://www.youtube.com/watch?v=zZN-3RpdjcY&ab_channel=YCombinator
 
+startup resources
+https://startupresources.io/
+
+
