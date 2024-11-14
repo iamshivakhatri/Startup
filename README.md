@@ -1,5 +1,6 @@
 # Startup
 These are startup videos
+https://www.ycombinator.com/companies/industry/ai
 
 http://www.paulgraham.com/notnot.html
 
