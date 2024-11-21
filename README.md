@@ -2,6 +2,8 @@
 These are startup videos
 https://www.ycombinator.com/companies/industry/ai
 
+https://otl.stanford.edu/researchers/startups/startup-resources-programs
+
 https://incubatorlist.com/top-startup-accelerators-incubators-and-vcs-in-california/
 
 http://www.paulgraham.com/notnot.html
