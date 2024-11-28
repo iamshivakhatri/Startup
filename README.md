@@ -1,5 +1,7 @@
 # Startup
-These are startup videos
+
+These are startup videoshttps://www.startupgrind.com/
+
 https://www.ycombinator.com/companies/industry/ai
 
 https://otl.stanford.edu/researchers/startups/startup-resources-programs
