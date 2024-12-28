@@ -1,4 +1,4 @@
-# Startup
+# Startup reaources
 
 These are startup videoshttps://www.startupgrind.com/
 
